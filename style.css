@@ -1,0 +1,46 @@
+/* Navy Blue */
+body {
+    background-color: #001f3f;
+}
+
+.c-item {
+    height: 600px;   /* Fixed height */
+}
+.c-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.gold-title {
+    color: #FFD700; /* Gold yellow */
+    font-weight: 700; /* Bold */
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5); /* optional shadow for visibility */
+}
+
+.intro-section {
+    color: rgb(255, 255, 255);
+}
+
+.gold-title {
+    color: #FFD700; /* Gold yellow */
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.5); /* optional for better visibility */
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card {
+    background-color: #d9e8ff; /* soft light blue */
+}
+
+.gold-title {
+    color: #FFD700; /* Gold yellow */
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.5); /* optional for visibility */
+}
